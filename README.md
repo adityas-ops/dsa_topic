@@ -1,6 +1,6 @@
 
 # Important Topic :- 
 
- - [Bit Manipulation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Bit Manipulation](https://github.com/adityas-ops/bit-manipulation/blob/main/README.md)
  
 
