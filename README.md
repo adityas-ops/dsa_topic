@@ -70,7 +70,7 @@ pre compuataion techinque  means already compute some data before entering in te
 it is technuque to optimize the code.
 
 We can see above the above code for example ..
-***Que :-*** let 
+**Que :-** let 
 t = 1e5
                  n = 1e5
 M  = 1e9+7
@@ -274,6 +274,9 @@ return 0;
 
 
 
+### Level Traversing in binary tree
+
+When we traversal in binary tree using level , left to right then it's called **Level Traversing in binary tree.**
 
 
 
